@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dighub-example"
+    }
+  },
+  "defaultProject": "dighub-example",
+  "cli": {
+    "analytics": false
+  }
 }
